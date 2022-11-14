@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Arlos-2018-Modeling">
+    <titleInfo>
+        <title>Modeling the exposure of wild fish to endocrine active chemicals: Potential linkages of total estrogenicity to field-observed intersex</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Maricor</namePart>
+        <namePart type="family">Arlos</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Wayne</namePart>
+        <namePart type="family">Parker</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">José</namePart>
+        <namePart type="family">Bicudo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pam</namePart>
+        <namePart type="family">Law</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Keegan</namePart>
+        <namePart type="family">Hicks</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Meghan</namePart>
+        <namePart type="family">Fuzzen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Susan</namePart>
+        <namePart type="family">Andrews</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mark</namePart>
+        <namePart type="family">Servos</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2018</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Global Water Futures 2018</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>University of Waterloo</publisher>
+            <place>
+                <placeTerm type="text">Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <abstract>Decades of studies on endocrine disruption have suggested the need to manage the release of key estrogens from municipal wastewater treatment plants (WWTP). However, the proposed thresholds are below the detection limits of most routine chemical analysis, thereby restricting the ability of watershed managers to assess the environmental exposure appropriately. In this study, we demonstrated the utility of a mechanistic model to address the data gaps on estrogen exposure. Concentrations of the prominent estrogenic contaminants in wastewaters (estrone, estradiol, and ethinylestradiol) were simulated in the Grand River in southern Ontario (Canada) for nine years, including a period when major WWTP upgrades occurred. The predicted concentrations expressed as total estrogenicity (E2 equivalent concentrations) were contrasted to a key estrogenic response (i.e., intersex) in rainbow darter (Etheostoma caeruleum), a wild sentinel fish species. A predicted total estrogenicity in the river of \geq10 ng/L E2 equivalents was associated with high intersex incidence and severity, whereas concentrations 0.1 ng/L E2 equivalents were associated with minimal intersex expression. Exposure to a predicted river concentration of 0.4 ng/L E2 equivalents, the environmental quality standard (EQS) proposed by the European Union for estradiol, was associated with 34% (95% CI:30-38) intersex incidence and a very low severity score of 0.6 (95% CI:0.5-0.7). This exposure is not predicted to cause adverse effects in rainbow darter. The analyses completed in this study were only based on the predicted presence of three major estrogens (E1, E2, EE2), so caution must be exercised when interpreting the results. Nevertheless, this study illustrates the use of models for exposure assessment, especially when measured data are not available.</abstract>
+    <identifier type="citekey">Arlos-2018-Modeling</identifier>
+    <identifier type="doi">10.1016/j.watres.2018.04.005</identifier>
+    <location>
+        <url>https://aclanthology.org/2018.GWF-1.1</url>
+    </location>
+    <part>
+        <date>2018</date>
+    </part>
+</mods>
+</modsCollection>
