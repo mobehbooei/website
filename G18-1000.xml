@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3">
-<mods ID="gwf-2018-Futures">
+<mods ID="G18-2018-water">
     <titleInfo>
         <title>Global Water Futures 2018</title>
     </titleInfo>
@@ -13,7 +13,7 @@
     </originInfo>
     <typeOfResource>text</typeOfResource>
     <genre authority="marcgt">conference publication</genre>
-    <identifier type="citekey">gwf-2018-Futures</identifier>
+    <identifier type="citekey">G18-2018-water</identifier>
     <location>
         <url>https://aclanthology.org/2018.GWF-1.0</url>
     </location>

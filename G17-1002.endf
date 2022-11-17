@@ -1,15 +1,19 @@
 ﻿%0 Conference Proceedings
-%T Is the choice of statistical paradigm critical in extreme event attribution studies?
-%A Stott, Peter
-%A Karoly, David
-%A Zwiers, Francis
+%T Abiotic and biotic drivers of biomass change in a Neotropical forest
+%A T. Sande, M.
+%A Peña-Claros, M.
+%A Ascarrunz, N.
+%A Arets, E.
+%A Licona, J.
+%A Toledo, M.
+%A Poorter, L.
 %S Global Water Futures 2017
 %D 2017
 %I University of Waterloo
 %C Online
-%F Stott-2017-Is
-%X The science of event attribution meets a mounting demand for reliable and timely information about the links between climate change and individual extreme events. Studies have estimated the contribution of human-induced climate change to the magnitude of an event as well as its likelihood, and many types of event have been investigated including heatwaves, floods, and droughts. Despite this progress, such approaches have been criticised for being unreliable and for being overly conservative. We argue that such criticisms are misplaced. Rather, a false dichotomy has arisen between “conventional” approaches and new alternative framings. We have three points to make about the choice of statistical paradigm for event attribution studies. First, different approaches to event attribution may choose to occupy different places on the conditioning spectrum. Providing this choice of conditioning is communicated clearly, the value of such choices depends ultimately on their utility to the user concerned. Second, event attribution is an estimation problem for which either frequentist or Bayesian paradigms can be used. Third, for hypothesis testing, the choice of null hypothesis is context specific. Thus, the null hypothesis of human influence is not inherently a preferable alternative to the usual null hypothesis of no human influence.
-%R 10.1007/s10584-017-2049-2
+%F T.Sande-etal-2017-Abiotic
+%X Tropical forests play an important role in the global carbon cycle, but the drivers of net forest biomass change (i.e. net carbon sequestration) are poorly understood. Here, we evaluate how abiotic factors (soil conditions and disturbance) and biotic factors (forest structure, diversity and community trait composition) shape three important demographic processes (biomass recruitment, growth and mortality) and how these underlie net biomass change. To test this, we evaluated 9 years of biomass dynamics using 48 1‐ha plots in a Bolivian tropical moist forest, and measured for the most abundant species eight functional traits that are important for plant carbon gain and loss. Demographic processes were related to the abiotic and biotic factors using structural equation models. Variation in net biomass change across plots was mostly due to stand‐level mortality, but mortality itself could not be predicted at this scale. Contrary to expectations, we found that species richness and trait composition – which is an indicator for the mass‐ratio theory – had little effect on the demographic processes. Biomass recruitment (i.e. the biomass growth by recruiting trees) increased with higher resource availability (i.e. water and light) and with high species richness, probably because of increased resource use efficiency. Biomass growth of larger, established trees increased with higher sand content, which may facilitate root growth of larger trees to deeper soil layers. In sum, diversity and mass‐ratio are of limited importance for the productivity of this forest. Instead, in this moist tropical forest with a marked dry season, demographic processes are most strongly determined by soil texture, soil water availability and forest structure. Only by simultaneously evaluating multiple abiotic and biotic drivers of demographic processes, better insights can be gained into mechanisms playing a role in the carbon sequestration potential of tropical forests and natural systems in general.
+%R 10.1111/1365-2745.12756
 %U https://aclanthology.org/2017.GWF-1.2
-%U https://doi.org/10.1007/s10584-017-2049-2
+%U https://doi.org/10.1111/1365-2745.12756
 
