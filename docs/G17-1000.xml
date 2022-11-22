@@ -1,21 +1,36 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3">
-<mods ID="G17-2017-water">
+<mods ID="gwf-2017-Futures">
     <titleInfo>
-        <title>Global Water Futures 2017</title>
+        <title>Global Water Futures 2018, Volume 23, Issue 1</title>
     </titleInfo>
     <originInfo>
         <dateIssued>2017</dateIssued>
-        <publisher>University of Waterloo</publisher>
-        <place>
-            <placeTerm type="text">Online</placeTerm>
-        </place>
     </originInfo>
     <typeOfResource>text</typeOfResource>
-    <genre authority="marcgt">conference publication</genre>
-    <identifier type="citekey">G17-2017-water</identifier>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Global Water Futures 2018, Volume 23, Issue 1</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+            <place>
+                <placeTerm type="text">Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">gwf-2017-Futures</identifier>
     <location>
         <url>https://aclanthology.org/2017.GWF-1.0</url>
     </location>
+    <part>
+        <date>2017</date>
+        <detail type="volume"><number>23</number></detail>
+        <detail type="issue"><number>1</number></detail>
+    </part>
 </mods>
 </modsCollection>

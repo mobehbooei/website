@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="jimenez-zafra-etal-2020-corpora">
+    <titleInfo>
+        <title>Corpora Annotated with Negation: An Overview</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Salud</namePart>
+        <namePart type="given">María</namePart>
+        <namePart type="family">Jiménez-Zafra</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Roser</namePart>
+        <namePart type="family">Morante</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">María</namePart>
+        <namePart type="given">Teresa</namePart>
+        <namePart type="family">Martín-Valdivia</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">L</namePart>
+        <namePart type="given">Alfonso</namePart>
+        <namePart type="family">Ureña-López</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Computational Linguistics, Volume 46, Issue 1 - March 2020</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Negation is a universal linguistic phenomenon with a great qualitative impact on natural language processing applications. The availability of corpora annotated with negation is essential to training negation processing systems. Currently, most corpora have been annotated for English, but the presence of languages other than English on the Internet, such as Chinese or Spanish, is greater every day. In this study, we present a review of the corpora annotated with negation information in several languages with the goal of evaluating what aspects of negation have been annotated and how compatible the corpora are. We conclude that it is very difficult to merge the existing corpora because we found differences in the annotation schemes used, and most importantly, in the annotation guidelines: the way in which each corpus was tokenized and the negation elements that have been annotated. Differently than for other well established tasks like semantic role labeling or parsing, for negation there is no standard annotation scheme nor guidelines, which hampers progress in its treatment.</abstract>
+    <identifier type="citekey">jimenez-zafra-etal-2020-corpora</identifier>
+    <identifier type="doi">10.1162/coli_a_00371</identifier>
+    <location>
+        <url>https://aclanthology.org/2020.cl-1.5</url>
+    </location>
+    <part>
+        <date>2020</date>
+        <detail type="volume"><number>46</number></detail>
+        <detail type="issue"><number>1</number></detail>
+        <extent unit="page">
+            <start>1</start>
+            <end>52</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

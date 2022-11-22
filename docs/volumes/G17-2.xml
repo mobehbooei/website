@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="belinkov-etal-2020-linguistic">
+    <titleInfo>
+        <title>On the Linguistic Representational Power of Neural Machine Translation Models</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yonatan</namePart>
+        <namePart type="family">Belinkov</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Computational Linguistics, Volume 46, Issue 1 - March 2020</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">belinkov-etal-2020-linguistic</identifier>
+    <identifier type="doi">10.1162/coli_a_00367</identifier>
+    <location>
+        <url>https://aclanthology.org/2020.cl-1.1</url>
+    </location>
+    <part>
+        <date>2017</date>
+        <detail type="volume"><number>46</number></detail>
+        <detail type="issue"><number>1</number></detail>
+        <extent unit="page">
+            <start>1</start>
+            <end>52</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="zhou-etal-2020-design">
+    <titleInfo>
+        <title>The Design and Implementation of XiaoIce, an Empathetic Social Chatbot</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Li</namePart>
+        <namePart type="family">Zhou</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jianfeng</namePart>
+        <namePart type="family">Gao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Di</namePart>
+        <namePart type="family">Li</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Heung-Yeung</namePart>
+        <namePart type="family">Shum</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Computational Linguistics, Volume 46, Issue 1 - March 2020</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>This article describes the development of Microsoft XiaoIce, the most popular social chatbot in the world. XiaoIce is uniquely designed as an artifical intelligence companion with an emotional connection to satisfy the human need for communication, affection, and social belonging. We take into account both intelligent quotient and emotional quotient in system design, cast human–machine social chat as decision-making over Markov Decision Processes, and optimize XiaoIce for long-term user engagement, measured in expected Conversation-turns Per Session (CPS). We detail the system architecture and key components, including dialogue manager, core chat, skills, and an empathetic computing module. We show how XiaoIce dynamically recognizes human feelings and states, understands user intent, and responds to user needs throughout long conversations. Since the release in 2014, XiaoIce has communicated with over 660 million active users and succeeded in establishing long-term relationships with many of them. Analysis of large-scale online logs shows that XiaoIce has achieved an average CPS of 23, which is significantly higher than that of other chatbots and even human conversations.</abstract>
+    <identifier type="citekey">zhou-etal-2020-design</identifier>
+    <identifier type="doi">10.1162/coli_a_00368</identifier>
+    <location>
+        <url>https://aclanthology.org/2020.cl-1.2</url>
+    </location>
+    <part>
+        <date>2020</date>
+        <detail type="volume"><number>46</number></detail>
+        <detail type="issue"><number>1</number></detail>
+        <extent unit="page">
+            <start>53</start>
+            <end>93</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

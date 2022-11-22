@@ -1,0 +1,17 @@
+﻿%0 Journal Article
+%T An Empirical Study on Crosslingual Transfer in Probabilistic Topic Models
+%A Hao, Shudong
+%A Paul, Michael J.
+%J Computational Linguistics, Volume 46, Issue 1 - March 2020
+%D 2020
+%V 46
+%N 1
+%I MIT Press
+%C Cambridge, MA
+%F hao-paul-2020-empirical
+%X Probabilistic topic modeling is a common first step in crosslingual tasks to enable knowledge transfer and extract multilingual features. Although many multilingual topic models have been developed, their assumptions about the training corpus are quite varied, and it is not clear how well the different models can be utilized under various training conditions. In this article, the knowledge transfer mechanisms behind different multilingual topic models are systematically studied, and through a broad set of experiments with four models on ten languages, we provide empirical insights that can inform the selection and future development of multilingual topic models.
+%R 10.1162/coli_a_00369
+%U https://aclanthology.org/2020.cl-1.3
+%U https://doi.org/10.1162/coli_a_00369
+%P 95-134
+

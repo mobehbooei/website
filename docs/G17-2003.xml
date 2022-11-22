@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="hao-paul-2020-empirical">
+    <titleInfo>
+        <title>An Empirical Study on Crosslingual Transfer in Probabilistic Topic Models</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Shudong</namePart>
+        <namePart type="family">Hao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="given">J</namePart>
+        <namePart type="family">Paul</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Computational Linguistics, Volume 46, Issue 1 - March 2020</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Probabilistic topic modeling is a common first step in crosslingual tasks to enable knowledge transfer and extract multilingual features. Although many multilingual topic models have been developed, their assumptions about the training corpus are quite varied, and it is not clear how well the different models can be utilized under various training conditions. In this article, the knowledge transfer mechanisms behind different multilingual topic models are systematically studied, and through a broad set of experiments with four models on ten languages, we provide empirical insights that can inform the selection and future development of multilingual topic models.</abstract>
+    <identifier type="citekey">hao-paul-2020-empirical</identifier>
+    <identifier type="doi">10.1162/coli_a_00369</identifier>
+    <location>
+        <url>https://aclanthology.org/2020.cl-1.3</url>
+    </location>
+    <part>
+        <date>2020</date>
+        <detail type="volume"><number>46</number></detail>
+        <detail type="issue"><number>1</number></detail>
+        <extent unit="page">
+            <start>95</start>
+            <end>134</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

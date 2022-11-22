@@ -1,19 +1,47 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3">
-<mods ID="Ferguson-etal-2018-Comment">
+<mods ID="Baulch-2018-Soil">
     <titleInfo>
-        <title>Comment on “Groundwater Pumping Is a Significant Unrecognized Contributor to Global Anthropogenic Element Cycles”</title>
+        <title>Soil and water management: opportunities to mitigate nutrient losses to surface waters in the Northern Great Plains</title>
     </titleInfo>
     <name type="personal">
-        <namePart type="given">G</namePart>
-        <namePart type="family">Ferguson</namePart>
+        <namePart type="given">Helen</namePart>
+        <namePart type="family">Baulch</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">J</namePart>
-        <namePart type="family">McIntosh</namePart>
+        <namePart type="given">Jane</namePart>
+        <namePart type="family">Elliott</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Marcos</namePart>
+        <namePart type="family">Cordeiro</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Don</namePart>
+        <namePart type="family">Flaten</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Lobb</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Henry</namePart>
+        <namePart type="family">Wilson</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -22,26 +50,31 @@
         <dateIssued>2018</dateIssued>
     </originInfo>
     <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
     <relatedItem type="host">
         <titleInfo>
-            <title>Global Water Futures 2018</title>
+            <title>Global Water Futures 2018, Volume 23, Issue 1</title>
         </titleInfo>
         <originInfo>
+            <issuance>continuing</issuance>
             <publisher>University of Waterloo</publisher>
             <place>
                 <placeTerm type="text">Online</placeTerm>
             </place>
         </originInfo>
-        <genre authority="marcgt">conference publication</genre>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
     </relatedItem>
-    <abstract>The ideas presented by Stahl (2018) are intriguing. There is a wealth of information that supports that groundwater pumping has perturbed the hydrologic cycle at a global scale (Konikow 2011; Rodell et al. 2018) and perturbations to global elemental cycles would not be unexpected. However, the analysis presented by Stahl (2018) is problematic. Stahl assumes that the 45% of produced waters from oil field operations that were not used in enhanced oil recovery (EOR) are released into the more active portion of the hydrological cycle based on 2007 figures for the United States from Clark and Veil (2009). This figure is substantially lower in reality. Clark and Veil (2009) report that 38.2% of produced waters were injected into nonproducing strata. This injection occurs almost exclusively through Class II disposal wells, which are typically installed in saline aquifers (EPA 2018). Similar practices have been noted in Canada, where there has been a net gain in the amount of water in the Western Canada Sedimentary Basin (Ferguson 2015). In addition, Stahl states that 45% of Shell’s produced water is discharged at the surface based on an estimate from Khatib and Verbeek (2003). However, that study also noted that much of this discharge was to the ocean as part of offshore drilling activities. The overestimation of addition of produced water to the active portion of global elemental cycles will have a notable effect on estimates of fluxes of elements such as Li, Na, Cl, and Ca, which are found in high concentrations</abstract>
-    <identifier type="citekey">Ferguson-etal-2018-Comment</identifier>
-    <identifier type="doi">10.1111/gwat.12840</identifier>
+    <abstract>The Northern Great Plains is a key region to global food production. It is also a region of water stress that includes poor water quality associated with high concentrations of nutrients. Agricultural nitrogen and phosphorus loads to surface waters need to be reduced, yet the unique characteristics of this environment create challenges. The biophysical reality of the Northern Great Plains is one where snowmelt is the major period of nutrient transport, and where nutrients are exported predominantly in dissolved form. This limits the efficacy of many beneficial management practices (BMPs) commonly used in other regions and necessitates place-based solutions. We discuss soil and water management BMPs through a regional lens—first understanding key aspects of hydrology and hydrochemistry affecting BMP efficacy, then discussing the merits of different BMPs for nutrient control. We recommend continued efforts to “keep water on the land” via wetlands and reservoirs. Adoption and expansion of reduced tillage and perennial forage may have contributed to current nutrient problems, but both practices have other environmental and agronomic benefits. The expansion of tile and surface drainage in the Northern Great Plains raises urgent questions about effects on nutrient export and options to mitigate drainage effects. Riparian vegetation is unlikely to significantly aid in nutrient retention, but when viewed against an alternative of extending cultivation and fertilization to the waters’ edge, the continued support of buffer strip management and refinement of best practices (e.g., harvesting vegetation) is merited. While the hydrology of the Northern Great Plains creates many challenges for mitigating nutrient losses, it also creates unique opportunities. For example, relocating winter bale-grazing to areas with low hydrologic connectivity should reduce loadings. Managing nutrient applications must be at the center of efforts to mitigate eutrophication. In this region, ensuring nutrients are not applied during hydrologically sensitive periods such as late autumn, on snow, or when soils are frozen will yield benefits. Working to ensure nutrient inputs are balanced with crop demands is crucial in all landscapes. Ultimately, a targeted approach to BMP implementation is required, and this must consider the agronomic and economic context but also the biophysical reality.</abstract>
+    <identifier type="citekey">Baulch-2018-Soil</identifier>
+    <identifier type="doi">10.1139/ER-2018-0101</identifier>
     <location>
         <url>https://aclanthology.org/2018.GWF-1.2</url>
     </location>
     <part>
         <date>2018</date>
+        <detail type="volume"><number>23</number></detail>
+        <detail type="issue"><number>1</number></detail>
     </part>
 </mods>
 </modsCollection>
